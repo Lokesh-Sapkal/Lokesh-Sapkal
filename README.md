@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Lokesh Sapkal (he/him)
 
-💻 **MCA Graduate (Result Awaited) | Aspiring Software Developer | Java Developer Enthusiast**
+💻 **MCA Graduate | Software Developer | Java & Spring Boot Enthusiast**
 
-🚀 Passionate about building practical software applications using Java and continuously improving my problem-solving skills through real-world projects.
+🚀 Passionate about building practical software applications, solving real-world problems, and writing clean, maintainable code.
 
-🌱 Currently learning **Spring Boot**, strengthening **Core Java** and exploring backend development.
+🌱 Currently strengthening my skills in **Core Java, Spring Boot, REST APIs, and Backend Development**, while exploring modern web technologies.
 
 🎯 Open to **Internship** and **Entry-Level Software Developer** opportunities.
 
@@ -15,9 +15,16 @@
 ## 💻 Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-<!--![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)-->
+
+---
+
+## ⚙️ Frameworks & Backend Development
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
@@ -31,9 +38,8 @@
 
 ## ⚙️ Database
 
-<!--![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)-->
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-<!--![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)-->
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -43,6 +49,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -50,7 +57,7 @@
 
 | Project | Description | Technologies |
 |---------|-------------|-------------|
-| 📂 **Customised DBMS** | Java-based command-line Database Management System supporting SQL-like operations with serialization, collections, validation and persistent storage. | Java, Serialization, Collections, File Handling |
+| 📂 **Customised DBMS** | A platform-independent, Java-based command-line Database Management System supporting SQL-like operations with serialization, collections, validation and persistent storage. | Java, OOP, Serialization, Collections, File Handling |
 | 💬 **Chat Messenger** | Client-server chat application using Java Socket Programming with real-time messaging, user nicknames, automatic chat logging, timestamp-based log files and graceful connection termination. | Java, TCP/IP Networking, Java Socket Programming, Java I/O Streams, File Handling, Java Time API|
 | 🌐 **Web Development Internship Tasks** | Collection of responsive frontend mini-projects demonstrating layouts, forms, UI components and JavaScript interactions. | HTML, CSS, JavaScript |
 
@@ -58,31 +65,32 @@
 
 # 🏆 Certifications
 
-🥇 **Programming in Java – NPTEL (IIT Kharagpur)**
+🥇 **Programming in Java** – NPTEL (IIT Kharagpur)
 
-**Score:** **100%** | **Gold + Elite**
+- Score: **100%**
+- Achievement: **Gold + Elite**
+- Duration: **January–April 2026**
 
-🥈 **Problem Solving Through Programming in C – NPTEL (IIT Kharagpur)**
+🥈 **Problem Solving Through Programming in C** – NPTEL (IIT Kharagpur)
 
-**Score:** **78%** | **Silver + Elite**
+- Score: **78%**
+- Achievement: **Silver + Elite**
+- Duration: **January–April 2026**
 
-<!-----
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lokesh-Sapkal&show_icons=true&theme=tokyonight" height="170"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Lokesh-Sapkal&show_icons=true&theme=tokyonight" height="170"/> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh-Sapkal&layout=compact&theme=tokyonight" height="170"/>
 </p>
--->
+
 ---
 
 # 🌱 Currently Learning
 
-- Spring Boot
-- Backend Development
-- REST APIs
+- React.js
 - Data Structures & Algorithms
 - System Design Fundamentals
 
