@@ -2,9 +2,9 @@
 
 💻 **MCA Graduate | Software Developer | Java & Spring Boot Enthusiast**
 
-🚀 Passionate about building practical software applications, solving real-world problems, and writing clean, maintainable code.
+🚀 Passionate about building practical software applications, solving real-world problems and writing clean, maintainable code.
 
-🌱 Currently strengthening my skills in **Core Java, Spring Boot, REST APIs, and Backend Development**, while exploring modern web technologies.
+🌱 Currently strengthening my skills in **Java, Spring Boot, REST APIs and Backend Development**, while exploring modern web technologies.
 
 🎯 Open to **Internship** and **Entry-Level Software Developer** opportunities.
 
@@ -24,7 +24,7 @@
 ## ⚙️ Frameworks & Backend Development
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
 
 ---
 
@@ -57,9 +57,11 @@
 
 | Project | Description | Technologies |
 |---------|-------------|-------------|
-| 📂 **Customised DBMS** | A platform-independent, Java-based command-line Database Management System supporting SQL-like operations with serialization, collections, validation and persistent storage. | Java, OOP, Serialization, Collections, File Handling |
-| 💬 **Chat Messenger** | Client-server chat application using Java Socket Programming with real-time messaging, user nicknames, automatic chat logging, timestamp-based log files and graceful connection termination. | Java, TCP/IP Networking, Java Socket Programming, Java I/O Streams, File Handling, Java Time API|
-| 🌐 **Web Development Internship Tasks** | Collection of responsive frontend mini-projects demonstrating layouts, forms, UI components and JavaScript interactions. | HTML, CSS, JavaScript |
+| 📂 [**Customised DBMS**](https://github.com/Lokesh-Sapkal/CustomisedDBMS)| A platform-independent, Java-based command-line Database Management System supporting SQL-like operations with serialization, collections, validation and persistent storage. | Java, OOP, Serialization, Collections, File Handling |
+| 💬 [**Chat Messenger**](https://github.com/Lokesh-Sapkal/chat-messenger)| Client-server chat application using Java Socket Programming with real-time messaging, user nicknames, automatic chat logging, timestamp-based log files and graceful connection termination. | Java, TCP/IP Networking, Java Socket Programming, Java I/O Streams, File Handling, Java Time API |
+| 🧰 [**Java Utility Library**](https://github.com/Lokesh-Sapkal/Java-Utility-Library)| A reusable Java utility library containing methods for number operations, digits, strings, patterns, matrices, recursion and bitwise operations.| Java, Generics, Exception Handling, File Handling |
+| 👨‍💼 [**Employee Record Management System**](https://github.com/Lokesh-Sapkal/Employee-Record-Management-System)| Responsive employee management application with CRUD operations, employee search, dashboard statistics, data visualization and browser-based storage.| HTML5, CSS3, JavaScript, LocalStorage |
+| 🌐 [**Frontend Development Practice Projects**](https://github.com/Lokesh-Sapkal/frontend-development-practice-projects)| Collection of frontend practice projects demonstrating responsive layouts, forms, UI components and JavaScript interactions.| HTML5, CSS3, JavaScript |
 
 ---
 
